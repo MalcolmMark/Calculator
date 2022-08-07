@@ -7,7 +7,7 @@ just be sure my code works. Feel free to add more to this project of contact me 
 necessary.
 
 ## UI Template
-Link: https://malcolmmark.github.io/Calculator.github.io/
+Link: https://malcolmmark.github.io/Calculator/
 
 ## Languages Used
 - HTML 5
